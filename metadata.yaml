@@ -1,0 +1,37 @@
+_repo: Ma-conversionou-le-libertin-de-qualit-_26808
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mirabeau, Honoré-Gabriel de Riqueti, comte de
+    aliases:
+    - De Riquetti, Honoré-Gabriel, comte de Mirabeau
+    - Riquetti, Honoré Gabriel, comte de Mirabeau
+    - Mirabeau, Honore-Gabriel de Riqueti, comte de
+    - Riqueti, Honoré-Gabriel, comte de Mirabeau
+    - De Mirabeau, Honoré-Gabriel de Riquetti, comte
+    birthdate: 1749
+    deathdate: 1791
+    gutenberg_agent_id: '32251'
+    url: http://www.gutenberg.org/2009/agents/32251
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Honor%C3%A9_Gabriel_Riqueti,_comte_de_Mirabeau
+    - http://fr.wikipedia.org/wiki/Honor%C3%A9_Gabriel_Riqueti_de_Mirabeau
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26808'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic stories, French'
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 18th century'
+title: Ma conversion; ou le libertin de qualité
+url: http://www.gutenberg.org/ebooks/26808
